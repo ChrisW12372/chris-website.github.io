@@ -24,6 +24,10 @@ navbar:
       icon: fa-github
       href: "https://github.com/ChrisW12372/chrisw12372.github.io"
       target: _blank
+    
+    - text: "Dashboard"
+      icon: fa-bar-chart
+      href: dashboard.html
 
     - icon: fa-file-pdf-o
       html: '<a href="files/resume.pdf" download style="color:#2c3e50;text-decoration:none;">Resume</a>'
